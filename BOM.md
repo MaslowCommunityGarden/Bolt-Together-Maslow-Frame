@@ -14,5 +14,5 @@ This design is intended to use imperial hardware, but I am certain that similar 
 
 * 4x 1/4" by 3.5" carriage bolts with 1 nut and 1 washer each
 
-![](https://github.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/blob/master/Pictures/Hardware%20to%20Buy.jpg)
-![](https://github.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/blob/master/Pictures/2x4s%20to%20Buy.jpg)
+![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/Hardware%20to%20Buy.jpg)
+![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/2x4s%20to%20Buy.jpg)
