@@ -125,7 +125,7 @@ Take the chain and loop it over the sprocket leaving the outside end dangling. H
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/Bungee%20on%20idlers.jpg)
 
 
-Now that we have completed building the frame we need to use it to cut the sled. Instructions to build a temporary sled and use it to cut the final version can be found [here](https://github.com/MaslowCNC/Mechanics/wiki/Cut-the-Sled).
+Now that we have completed building the frame we need to use it to cut the sled. Instructions to build a temporary sled and use it to cut the final version can be found [here](http://maslowcommunitygarden.org/Maslow-Ring-System.html?instructions=true).
 
 
 Notes to improve the design:
