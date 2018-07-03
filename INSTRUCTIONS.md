@@ -111,13 +111,13 @@ Mark the middle of the top beam and install the two pulleys for the cable system
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/Bungee%20idlers.jpg)
 
-Place a screw in the top beam just to the inside of the motor and on the front of the top beam hammer in one of the small nails in the hardware bag leaving a little more than 1/4 inch protruding. The chain will attach to this nail. (If the chain won't fit over the nail you might want to delay the putting in the nails until the next step).
+Place a screw in the top beam just to the inside of the motor and on the bottom of the top beam. Hammer in one of the small nails in the hardware bag leaving a little more than 1/4 inch protruding. The chain will attach to this nail. (If the chain won't fit over the nail you might want to delay the putting in the nails until the next step).
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/Closeup%20of%20Nail%20and%20Screw.jpg)
 
 ### Step 12: Hook up the chain
 
-Take the chain and loop it over the sprocket leaving the outside end dangling. Hook the inside end of the chain on the small nail.  Take the stretchy cord and tie a loop in each end and hook the ends over the screw to the inside of the motor. Place the idler sprocket and S hook in the loop of the chain, then pass the loop end of the stretchy cord around the pulley and hook it to the S hook.
+Take the chain and loop it over the sprocket leaving the outside end dangling. Hook the inside end of the chain on the small nail.  Take the stretchy cord and form a loop in each end using zip ties. Hook one ends over the screw to the inside of the motor. Place the idler sprocket and S hook in the loop of the chain, then hook the other end of the streachy cord to the S hook.
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/System%20Overview.jpg)
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/Chain%20Over%20Motor.jpg)
