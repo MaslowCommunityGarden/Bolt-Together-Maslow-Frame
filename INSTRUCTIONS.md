@@ -25,7 +25,7 @@ Cut your three 10" 2x4s and two 8" 2x4s as shown in the picture below. None of t
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/Cut%20List.PNG)
 
-Note that the top 2x4 is a full 10' so no cuts are needed. For the remaining 2x4s some amount will be left over after all cuts. This leftover can be set aside and is not needed. You may want to use your best and straightest board for the top beam (the uncut 10' board)
+Note that the top 2x4 is a full 10' so no cuts are needed. For the remaining 2x4's some amount will be left over after all cuts. This leftover can be set aside and is not needed. You may want to use your best and straightest board for the top beam (the uncut 10' board)
 
 You should now have 13 cut parts like this:
 
@@ -43,9 +43,9 @@ Note that all measurements are referenced to the ends of the parts and that thes
 
 ### Step 4: Drill 3/8ths inch holes for bolts
 
-Drill holes for the bolts in the parts at the locations shown below. Feel free to use the next size up drill bit to make the bolts go through easier.
+Drill holes for the bolts at the locations shown below. Feel free to use the next size up drill bit to make the bolts go through easier.
 
-Note that the hole through leg part A passes through the beam in the long direction , not the short direction.  Drilling straight through the beam in the long direction can be tricky.  Consider using one of [these techniques](https://www.popularmechanics.com/home/how-to-plans/how-to/gmp1534/3-tips-for-drilling-super-straight-holes/) or a drill press if you are concerned you may have difficulty.  
+Note that the hole through leg part A passes through the beam in the long direction, not the short direction.  Drilling straight through the beam in the long direction can be tricky.  Consider using one of [these techniques](https://www.popularmechanics.com/home/how-to-plans/how-to/gmp1534/3-tips-for-drilling-super-straight-holes/) or a drill press if you are concerned you may have difficulty.  
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/3-8ths%20Drill%20List.PNG)
 
@@ -72,21 +72,21 @@ Assemble the legs using one leg piece each of leg piece A, B, and C, one spacer 
 
 Repeat this process for the other leg. Note that making them mirror images of each other rather than identical will give the final machine symmetry which could be aesthetically pleasing.
 
-### Step 7: Attach cross beam
+### Step 7: Attach the cross beam
 
-Using the two 10" bolts attach the top beam to the frame with two 2x4 spacers and one 3/4 inch plywood spacer between the beam and the legs. Tighten the bolts well to ensure that there is no play in the connection.
+Using the two 10" bolts, attach the top beam to the frame with two 2x4 spacers and one 3/4 inch plywood spacer between the beam and the legs. Tighten the bolts well to ensure that there is no play in the connection.
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/Top%20Beam%20Attached.jpg)
 
 ### Step 8: Stand it up and attach the backing plywood
 
-Stand up the legs and screw the backer plywood to the legs. Use one screw in each corner, many screws in the middle are not needed and you may run into them accidentally when routing. 
+Stand up the legs and screw the backer plywood to the legs. Use one screw in each corner, as many screws in the middle are not needed and you may run into them accidentally when routing. 
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/Plywood%20Attached.jpg)
 
 ### Step 9: Attach the motors
 
-Screw the motor mounting brackets to the ends of the beam flush with the front edge using four of the short wood screws. Srew these down tightly - a lot of torque is applied to these when calibrating the motors later - you don't want them to move.
+Screw the motor mounting brackets to the ends of the beam flush with the front edge using four of the short wood screws. Screw these down tightly - a lot of torque is applied to these when calibrating the motors later - you don't want them to move.
 
 ![](https://github.com/MaslowCNC/Mechanics/tree/master/Documentation/The%20Bolt%20Together%20Frame)
 
@@ -111,13 +111,13 @@ Mark the middle of the top beam and install the two pulleys for the cable system
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/Bungee%20idlers.jpg)
 
-Place a screw in the top beam just to the inside of the motor and on the bottom of the top beam. Hammer in one of the small nails in the hardware bag leaving a little more than 1/4 inch protruding. The chain will attach to this nail. (If the chain won't fit over the nail you might want to delay the putting in the nails until the next step).
+Place a screw in the top beam just to the inside of the motor and on the bottom of the top beam. Hammer in one of the small nails in the hardware bag leaving a little more than 1/4 inch protruding. The chain will attach to this nail. (If the chain won't fit over the nail, you might want to delay putting in the nails until the next step).
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/Closeup%20of%20Nail%20and%20Screw.jpg)
 
 ### Step 12: Hook up the chain
 
-Take the chain and loop it over the sprocket leaving the outside end dangling. Hook the inside end of the chain on the small nail.  Take the stretchy cord and form a loop in each end using zip ties. Hook one ends over the screw to the inside of the motor. Place the idler sprocket and S hook in the loop of the chain, then hook the other end of the streachy cord to the S hook.
+Take the chain and loop it over the sprocket leaving the outside end dangling. Hook the inside end of the chain on the small nail.  Take the stretchy cord and form a loop in each end using zip ties. Hook one end over the screw to the inside of the motor. Place the idler sprocket and S hook in the loop of the chain, then hook the other end of the streachy cord to the S hook.
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/System%20Overview.jpg)
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/Chain%20Over%20Motor.jpg)
@@ -125,9 +125,9 @@ Take the chain and loop it over the sprocket leaving the outside end dangling. H
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Bolt-Together-Maslow-Frame/master/Pictures/Bungee%20on%20idlers.jpg)
 
 
-Now that we have completed building the frame we need to use it to cut the sled. Instructions to build a temporary sled and use it to cut the final version can be found [here](http://maslowcommunitygarden.org/Maslow-Ring-System.html?instructions=true).
+Now that we have completed building the frame, we need to use it to cut the sled. Instructions to build a temporary sled and use it to cut the final version can be found [here](http://maslowcommunitygarden.org/Maslow-Ring-System.html?instructions=true).
 
 
 Notes to improve the design:
 
-   It would be way easier to put this together if all the holes were equally distant from each end of the board so that the parts were reversible. 
+   It would be much easier to put this together if all the holes were equally distant from each end of the board so that the parts were reversible. 
